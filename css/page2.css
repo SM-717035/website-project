@@ -198,63 +198,7 @@ footer {
     font-size: 26px;
     margin: 0;
   } 
-
-/* .icons-follow {
-  position: absolute;
-  left: 2.25%;
-  bottom: 3%;
-  height: 30px;
 }
-
-.icons-contact {
-  position: absolute;
-  right: 1.75%;
-  bottom: 3%;
-  height: 30px;
-}
-
-.follow {
-  position: absolute;
-  bottom: 30%;
-  left: 2.5%;
-  font-size: 26px;
-}
-
-.copyright {
-  position: absolute;
-  left: 40.5%;
-  bottom: -4%;
-}
-
-.contact {
-  position: absolute;
-  bottom: 30%;
-  right: 1.75%;
-  font-size: 26px;
-} */
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @media (max-width: 768px) {
     html {

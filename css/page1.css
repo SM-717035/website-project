@@ -1,6 +1,7 @@
+/* This media query is for desktop. */ 
 @media (min-width: 769px) {
 
-html {
+html, body {
   margin: 0;
   padding: 0;
 }
@@ -9,8 +10,6 @@ body {
   /* background-color: powderblue; */
   display: flex;
   flex-direction: column;
-  margin: 0;
-  padding: 0;
   height: 100vh;
   width: 100vw;
   }
@@ -20,7 +19,9 @@ header {
   justify-content: center;
   background: radial-gradient(37.22% 80.99% at 50% 50%, rgba(217, 217, 217, 0.00) 70.31%, rgba(255, 190, 88, 0.85) 100%);  width: 100%;
   padding: 5px 0 5px 0;
-  border-bottom: 2px solid #464646;
+  border-bottom-color: #464646;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
   }
 
 .logo-image {
@@ -58,6 +59,10 @@ a {
 a:hover {
   text-decoration: underline;
   }
+
+a:active {
+  color: black;
+}
 
 a:visited {
   color: black;
@@ -105,6 +110,10 @@ p {
   font-size: 20px;
   font-family: "Saira";
   margin-top: 0;
+  letter-spacing: normal;
+  line-height: normal;
+  text-indent: 0%;
+  word-spacing: normal;
   }
   
 .main-content {
@@ -202,57 +211,7 @@ em {
 }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* This media query is for mobile. */ 
 @media (max-width: 768px) {
   html {
     margin: 0;
