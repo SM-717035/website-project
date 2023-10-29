@@ -1,0 +1,5 @@
+Student name: Spencer Moreno
+Student number: 717035
+Student class: IT1B
+GitHub Repository: https://github.com/SM-717035/website-project
+GitHub Pages URL: https://sm-717035.github.io/website-project

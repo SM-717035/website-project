@@ -366,7 +366,7 @@ footer {
       }
     
     .main-content {
-      background-color: purple;
+      /* background-color: purple; */
       display: flex;
       flex-direction: column;
       justify-content: space-between;
@@ -375,7 +375,7 @@ footer {
       }
     
     .main-content-wrapper {
-        background-color: burlywood;
+        /* background-color: burlywood; */
         display: flex;
         flex-direction: column-reverse;
         justify-content: space-between;
@@ -383,7 +383,7 @@ footer {
         }
     
     .main-content-text-two {
-        background-color: orange;
+        /* background-color: orange; */
         display: flex;
         flex-direction: column;
         width: 100%;
@@ -391,7 +391,7 @@ footer {
         }
       
     .main-content-text-one {
-        background-color: orangered;
+        /* background-color: orangered; */
         display: flex;
         flex-direction: column;
         padding-bottom: 30px;
